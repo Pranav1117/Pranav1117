@@ -1,4 +1,4 @@
-[![MasterHead](https://rishavchanda.io](https://i.gifer.com/embedded/download/U0zc.gif)
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780155240/7SZuYu_oq.gif)
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A MERN Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://ytimg.googleusercontent.com/vi/bmVKaAV_7-A/maxresdefault_live.jpg"/>
