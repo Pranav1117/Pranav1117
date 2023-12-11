@@ -1,4 +1,4 @@
-![MasterHead]([https://e0.pxfuel.com/wallpapers/340/338/desktop-wallpaper-plug-dj-minimalism-dark-textured-texture-simple-brand-music-minimalist.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVglYoWevzwXuDHBDzc0TPVhQrFXcuPEZz8NzY98QTjO6UK-ogpS1v07OSTBOYxhZrYRc&usqp=CAU))
+![MasterHead](https://cdn.stackoverflow.co/images/jo7n4k8s/production/1b1d4e8a86aaf02e354b752cae58be5c6b253076-5184x3456.jpg)
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A MERN Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://ytimg.googleusercontent.com/vi/bmVKaAV_7-A/maxresdefault_live.jpg"/>
