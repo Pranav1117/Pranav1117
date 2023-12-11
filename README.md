@@ -1,4 +1,4 @@
-![MasterHead](https://e0.pxfuel.com/wallpapers/107/402/desktop-wallpaper-coding-4-cbse-today.jpg)
+![MasterHead](https://e0.pxfuel.com/wallpapers/340/338/desktop-wallpaper-plug-dj-minimalism-dark-textured-texture-simple-brand-music-minimalist.jpg)
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A MERN Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://ytimg.googleusercontent.com/vi/bmVKaAV_7-A/maxresdefault_live.jpg"/>
